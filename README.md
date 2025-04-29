@@ -45,5 +45,5 @@ Coming Soon!
 
 https://wiki.openshock.org/guides/shockosc-avatar-setup-vrc/
 
-[Openshock VRChat Prefab](https://github.com/Kyobinoyo/OpenshockPrefabs)
+[Kyobinoyo's Openshock VRChat Prefab](https://github.com/Kyobinoyo/OpenshockPrefabs)
 
