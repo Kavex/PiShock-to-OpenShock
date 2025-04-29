@@ -37,13 +37,13 @@ This is for the PiShock Hub [2023 Model](https://wiki.openshock.org/hardware/boa
 ## ShockOSC App
 1. Download and install the latest [ShockOSC](https://github.com/OpenShock/ShockOSC/releases/)
 2. Sign in with your OpenShock Account
-3. More coming soon with Kyobinoyo's Prefabs
+3. https://wiki.openshock.org/guides/shockosc-basic/
 
 ## VRChat Setup
 
-Coming Soon!
-
-https://wiki.openshock.org/guides/shockosc-avatar-setup-vrc/
+Coming Soon! if you want to follow the guides for these you can.
 
 [Kyobinoyo's Openshock VRChat Prefab](https://github.com/Kyobinoyo/OpenshockPrefabs)
+
+https://wiki.openshock.org/guides/shockosc-avatar-setup-vrc/
 
