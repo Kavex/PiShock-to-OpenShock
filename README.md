@@ -16,22 +16,22 @@ This is for the PiShock Hub [2023 Model](https://wiki.openshock.org/hardware/boa
 4. Select the PiShock 2023 Board
 5. Check Erase before flashing and flash the device
 6. Once done unplug the Hub and replug back in
-7. Go to https://openshock.app/ on your PC and make an account
+7. Go to https://openshock.app on your PC and make an account
 8. Grab your phone and connect to the SSID with OpenShock (OpenShock-XX:XX:XX:XX:XX:XX)
 9. Once connected open the browser on the phone and go to 10.10.10.10 or openshock.local
 10. Find your router's Wi-Fi network in the web-interface. (Does not support 5Ghz)
     
     ![image](https://github.com/user-attachments/assets/a5ff6680-a542-46df-bd1d-703a3727af03)
     
-12. Log into https://openshock.app/ on your PC and go to Hub and click on the green circle with a white plus
+12. Log into https://openshock.app on your PC and go to Hub and click on the green circle with a white plus
 13. It's going to make a New Hub, Go to the three dots and click on pair. It will give you a code.
 14. Put that code in the web-interface on the phone and it will link your account.
-15. Go to the Shockers on https://openshock.app/ on your PC and click on the green circle with a white plus
+15. Go to the Shockers on https://openshock.app on your PC and click on the green circle with a white plus
 16. It's going to make a new shocker and you will want to pick the hub you just made and rename the shocker to something simple
 17. Pick the model CaiXianlin and hit create
 18. Turn on the shocker by clicking the power button once. You should hear one beep.
 19. Now hold the shocker's power button until it blinking fast. `
-20. While it's blinding fast click on the speaker icon under your shockers on https://openshock.app/
+20. While it's blinding fast click on the speaker icon under your shockers on https://openshock.app
 21. Shocker should now be paired with OpenShock
 
 ## ShockOSC App
