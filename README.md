@@ -56,7 +56,7 @@ This is for the PiShock Hub [2023 Model](https://wiki.openshock.org/hardware/boa
 1. Go to [Kyobinoyo's Openshock VRChat Prefab](https://github.com/Kyobinoyo/OpenshockPrefabs)
 2. Download **Shocker, Remote Trigger, Settings Menu** and import them into Unity
 3. Go to **Openshock\ShockOsc\Shocker\VRChat** and Add the **ShockOsc_VRChat_Shocker.prefab** to your avatar. Move it to the Left leg or wherever.
-4. Unpack the prefab and go to **ShockOsc_VRChat_Shocker** > **Shocker** > **VRC Contact Reciever** and change it to your group name
+4. Unpack the prefab and go to **ShockOsc_VRChat_Shocker** > **Shocker** > **VRC Contact Reciever** and change it to your group name (I used **GroupName**).
    
 ![image](https://github.com/user-attachments/assets/ab2284db-5d17-404e-8a6f-1a636cec1fd6)
 
