@@ -21,7 +21,7 @@ This is for the PiShock Hub [2023 Model](https://wiki.openshock.org/hardware/boa
 9. Once connected open the browser on the phone and go to 10.10.10.10 or openshock.local
 10. Find your router's Wi-Fi network in the web-interface. (Does not support 5Ghz)
     
-    ![image](https://github.com/user-attachments/assets/a5ff6680-a542-46df-bd1d-703a3727af03)
+![image](https://github.com/user-attachments/assets/a5ff6680-a542-46df-bd1d-703a3727af03)
     
 12. Log into https://openshock.app on your PC and go to Hub and click on the green circle with a white plus
 13. It's going to make a New Hub, Go to the three dots and click on pair. It will give you a code.
@@ -37,13 +37,49 @@ This is for the PiShock Hub [2023 Model](https://wiki.openshock.org/hardware/boa
 ## ShockOSC App
 1. Download and install the latest [ShockOSC](https://github.com/OpenShock/ShockOSC/releases/)
 2. Sign in with your OpenShock Account
-3. https://wiki.openshock.org/guides/shockosc-basic/
+3. You can follow this guide https://wiki.openshock.org/guides/shockosc-basic/
+4. Make a group with named whatever you want (I used **GroupName**) and make sure to check your shocker that is linked
+   
+![image](https://github.com/user-attachments/assets/eb6d845a-7705-4966-a19b-bf8a1a948820)
+
+![image](https://github.com/user-attachments/assets/fd0d839d-a177-4cab-b4d1-78998a21b845)
+
+6. Set your configurion
+   
+![image](https://github.com/user-attachments/assets/fba68fd1-73b6-4049-a2c6-2a0ed139a119)
+
+7. Move onto setting your VRChat Avatar
+
 
 ## VRChat Setup
 
-Coming Soon! if you want to follow the guides for these you can.
+1. Go to [Kyobinoyo's Openshock VRChat Prefab](https://github.com/Kyobinoyo/OpenshockPrefabs)
+2. Download **Shocker, Remote Trigger, Settings Menu** and import them into Unity
+3. Go to **Openshock\ShockOsc\Shocker\VRChat** and Add the **ShockOsc_VRChat_Shocker.prefab** to your avatar. Move it to the Left leg or wherever.
+4. Unpack the prefab and go to **ShockOsc_VRChat_Shocker** > **Shocker** > **VRC Contact Reciever** and change it to your group name
+   
+![image](https://github.com/user-attachments/assets/ab2284db-5d17-404e-8a6f-1a636cec1fd6)
 
-[Kyobinoyo's Openshock VRChat Prefab](https://github.com/Kyobinoyo/OpenshockPrefabs)
+![image](https://github.com/user-attachments/assets/7c3ebe70-5824-461d-b1c2-7e4118a24fb8)
 
-https://wiki.openshock.org/guides/shockosc-avatar-setup-vrc/
+6. You may want to add other **Collision Tags** and add **Allow Self** like i have
+7. Go to **Openshock\ShockOsc\Settings Menu** and add **ShockOsc_Settings.prefab** to your avatar
+8. Go to **Openshock\ShockOsc\Remote Trigger** and add **ShockOSC_Receiver.prefab** and **ShockOSC_Sender.prefab**
+9. Unpack and go to **ShockOSC_Receiver** > **Receiver** and change Custom to **OpenShock** and Parameter to your group name (I used **GroupName**). If you want to have it shock yourself then select **Allow Self**.
+    
+![image](https://github.com/user-attachments/assets/01410a29-822b-4429-aee0-1bb43142c089)
+
+![image](https://github.com/user-attachments/assets/e29d53a1-4db8-4538-944a-8b3fee003185)
+
+10. Unpack and go **ShockOSC_Sender** > **Sender** and set Custom to **OpenShock**
+    
+![image](https://github.com/user-attachments/assets/0af95772-6a0c-415a-951b-2661bc132f29)
+
+![image](https://github.com/user-attachments/assets/90fd3155-7f24-4aa6-9cf1-69112d4951ec)
+
+
+
+ 
+
+
 
