@@ -77,6 +77,10 @@ This is for the PiShock Hub [2023 Model](https://wiki.openshock.org/hardware/boa
 
 ![image](https://github.com/user-attachments/assets/90fd3155-7f24-4aa6-9cf1-69112d4951ec)
 
+## Delete AppData
+
+1. Delete The OSC Folder - C:\Users\<USERNAME>\AppData\LocalLow\VRChat\VRChat\OSC
+
 
 
  
